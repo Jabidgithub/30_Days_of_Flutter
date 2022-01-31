@@ -22,4 +22,11 @@ class HomePage extends StatelessWidget {
           drawer: Drawer(),
         );
   }
+
+  bringVegitables(int rupees){
+    // take cycle
+  
+    // go to sector 16
+
+  }
 }
