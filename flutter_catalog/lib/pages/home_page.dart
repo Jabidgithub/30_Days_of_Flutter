@@ -24,10 +24,7 @@ class HomePage extends StatelessWidget {
         );
   }
 
-  bringVegitables(int rupees){
-    // take cycle
-  
-    // go to sector 16
-
-  }
 }
+
+
+
